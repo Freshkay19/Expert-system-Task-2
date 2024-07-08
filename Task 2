@@ -1,0 +1,34 @@
+# ASSIGNMENT II ON COM 423: 
+## EXPERT SYSTEMS AND MACHINE LEARNING 
+### BY AZUEWA KELVIN CHINENYE 
+### REG. NO.: 2022/HND/35435/CS
+
+## EXPERT SYSTEMS
+
+## Research on Two Expert Systems
+
+### 1. **Mayo Clinic Symptom Checker**
+
+**Description:**  
+The Mayo Clinic Symptom Checker is an expert system designed to help users identify potential health issues based on their symptoms. It uses a large database of medical knowledge to suggest possible conditions and recommend next steps for treatment or further evaluation.
+
+**Web Address:** [Mayo Clinic Symptom Checker](https://www.mayoclinic.org/symptom-checker/select-symptom/itt-20009075)
+
+**Input:**  
+A user inputs symptoms such as "fever, cough, and difficulty breathing."
+
+**Output:**  
+The system suggests possible conditions such as "Influenza, COVID-19, or Pneumonia" and advises the user to seek medical attention if symptoms are severe or persistent.
+
+### 2. **IBM Watson for Oncology**
+
+**Description:**  
+IBM Watson for Oncology is an expert system developed to assist oncologists in identifying personalized cancer treatment options for patients. It analyzes large volumes of medical literature and clinical data to provide evidence-based treatment recommendations.
+
+**Web Address:** [IBM Watson for Oncology](https://www.ibm.com/watson/health/oncology-and-genomics/oncology/)
+
+**Input:**  
+An oncologist inputs patient data, including the type and stage of cancer, genetic mutations, and prior treatment history.
+
+**Output:**  
+IBM Watson for Oncology provides a list of recommended treatment options, including chemotherapy, targeted therapy, and immunotherapy, along with supporting evidence from medical research and clinical trials. The system also highlights any relevant clinical trials the patient may be eligible for.
