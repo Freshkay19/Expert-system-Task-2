@@ -1,4 +1,6 @@
-# Expert-system-Task-2
+# Expert-system-Task-2 
+# AZUEWA KELVIN CHINENYE 
+# 2022/HND/35435/CS
 
 ```markdown
 # Expert Systems Research
